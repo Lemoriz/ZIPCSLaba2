@@ -1,0 +1,29 @@
+﻿<Window x:Class="Laba2WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Laba2WPF"
+        mc:Ignorable="d"
+        Title="Tests" Height="350" Width="525" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="171*"></ColumnDefinition>
+            <ColumnDefinition Width="346*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="30,40,0,0" TextWrapping="Wrap" Name="Number"  VerticalAlignment="Top" Width="120"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="29,95,0,0" TextWrapping="Wrap" Name="Round" VerticalAlignment="Top" Width="120" />
+        <Label Content="Enter the number" HorizontalAlignment="Left" Margin="81,35,0,0" VerticalAlignment="Top" Height="26" Width="103" Grid.ColumnSpan="2"/>
+        <Label Content="Enter the round" HorizontalAlignment="Left" Margin="82,99,0,0" VerticalAlignment="Top" Height="26" Width="93" Grid.ColumnSpan="2"/>
+        <CheckBox Content="Recomend: log2(n) n - number" Grid.Column="1" Name="CheckBox" HorizontalAlignment="Left" Margin="16,135,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+        <Label Content="Test Ferma" HorizontalAlignment="Left" Margin="82,21,0,0" VerticalAlignment="Top" Height="26" Width="103" Grid.Row="1" RenderTransformOrigin="0.69,0.142" Grid.ColumnSpan="2"/>
+        <Label Content="Rabin Miller" HorizontalAlignment="Left" Margin="82,56,0,0" VerticalAlignment="Top" Height="26" Width="103" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="30,20,0,0" TextWrapping="Wrap" x:Name="ResultFerma"  VerticalAlignment="Top" Width="120" Grid.Row="1"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="29,62,0,0" TextWrapping="Wrap" x:Name="ResulRabinMiller"  VerticalAlignment="Top" Width="120" Grid.Row="1"/>
+        <Button Content="Count" Grid.Column="1" HorizontalAlignment="Left" Margin="199,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+    </Grid>
+</Window>

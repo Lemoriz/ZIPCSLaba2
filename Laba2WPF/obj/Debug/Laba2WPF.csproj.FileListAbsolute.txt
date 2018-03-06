@@ -1,0 +1,15 @@
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\bin\Debug\Laba2WPF.exe.config
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\bin\Debug\Laba2WPF.exe
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\bin\Debug\Laba2WPF.pdb
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\Laba2WPF.csprojResolveAssemblyReference.cache
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\App.g.cs
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\Laba2WPF_MarkupCompile.cache
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\Laba2WPF_MarkupCompile.lref
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\MainWindow.baml
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\Laba2WPF.g.resources
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\Laba2WPF.Properties.Resources.resources
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\Laba2WPF.csproj.GenerateResource.Cache
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\Laba2WPF.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\Laba2WPF.exe
+C:\Users\Ramil\Desktop\ForUniversity\Laba2WPF\Laba2WPF\obj\Debug\Laba2WPF.pdb

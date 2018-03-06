@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba2WPF", "Laba2WPF\Laba2WPF.csproj", "{A566FDD6-1778-46EC-B353-2A86A81CCB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A566FDD6-1778-46EC-B353-2A86A81CCB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A566FDD6-1778-46EC-B353-2A86A81CCB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A566FDD6-1778-46EC-B353-2A86A81CCB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A566FDD6-1778-46EC-B353-2A86A81CCB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956640A3-0546-4881-BA86-669ECBF3C945}
+	EndGlobalSection
+EndGlobal
